@@ -5,10 +5,10 @@
 npm install vsesfj --save-dev  
 
 const store = new Vuex.Store({  
-  modules: {  
-    user  
-  },  
-  plugins: [vsesfj]  
+>>modules: {  
+>>>>user  
+>>},  
+>>plugins: [vsesfj]  
 })  
 
 3 默认sessionStorage存储  

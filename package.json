@@ -1,6 +1,6 @@
 {
   "name": "vsesfj",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A local plug-in that automatically saves the vuex state",
   "main": "index.js",
   "scripts": {
